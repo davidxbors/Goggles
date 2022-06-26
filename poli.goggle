@@ -7,9 +7,9 @@
 ! this goggle will only contain official websites, owned directly by UPB
 $boost=9,site=ocw.cs.pub.ro
 $boost=9,site=curs.upb.ro
-$boost=5,site=acs.pub.ro
-$boost=5,site=upb.ro
-$boost=5,site=studenti.pub.ro
-$boost=5,site=cs.pub.ro
-$boost=5,site=acse.pub.ro
-$boost=5,site=aii.pub.ro
+$boost=8,site=acs.pub.ro
+$boost=8,site=upb.ro
+$boost=8,site=studenti.pub.ro
+$boost=8,site=cs.pub.ro
+$boost=8,site=acse.pub.ro
+$boost=8,site=aii.pub.ro
