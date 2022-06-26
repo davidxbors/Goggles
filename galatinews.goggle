@@ -1,0 +1,23 @@
+! name: Galati Goggles
+! description: Prioritizes domains that offer a great variety of news about Galati, Romania. It also discards untrusty news sources.
+! author: David Bors (borsdavid [at] proton [dot] me)
+! public: false
+! avatar: #0000ff
+
+$boost=6,site=adevarul.ro
+/ProLiderFm/$boost=6
+$boost=6,site=regionalpress.ro
+$boost=6,site=invatamantulgalatean.ro
+
+$boost=5,site=monitoruldegalati.ro
+$boost=5,site=viata-libera.ro
+/ziare.com/galati/$boost=5
+
+! not local, but Romanian
+$boost=3,site=hotnews.ro
+$boost=3,site=g4media.ro
+/r/Romania/$boost=2
+
+$discard,site=antidotul.ro
+$discard,site=digi24.ro
+$discard,site=antena3.ro
