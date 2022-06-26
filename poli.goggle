@@ -4,6 +4,7 @@
 ! public: true
 ! avatar: #0000ff
 
+$discard
 ! this goggle will only contain official websites, owned directly by UPB
 $boost=9,site=ocw.cs.pub.ro
 $boost=9,site=curs.upb.ro
@@ -13,15 +14,3 @@ $boost=7,site=studenti.pub.ro
 $boost=7,site=cs.pub.ro
 $boost=7,site=acse.pub.ro
 $boost=7,site=aii.pub.ro
-
-! discard other universities
-$discard,site=uvt.ro
-$discard,site=uoradea.ro
-$discard,site=upt.ro
-$discard,site=utcluj.ro
-$discard,site=ugal.ro
-$discard,site=usv.ro
-$discard,site=uaic.ro
-$discard,site=ase.ro
-$discard,site=tuiasi.ro
-$discard,site=unibuc.ro
