@@ -4,19 +4,19 @@
 ! public: false
 ! avatar: #0000ff
 
-$boost=6,site=adevarul.ro
+$boost=10,site=adevarul.ro
 /ProLiderFm/$boost=6
-$boost=6,site=regionalpress.ro
-$boost=6,site=invatamantulgalatean.ro
+$boost=10,site=regionalpress.ro
+$boost=10,site=invatamantulgalatean.ro
 
-$boost=5,site=monitoruldegalati.ro
-$boost=5,site=viata-libera.ro
-/ziare.com/galati/$boost=5
+$boost=9,site=monitoruldegalati.ro
+$boost=9,site=viata-libera.ro
+/ziare.com/galati/$boost=9
 
 ! not local, but Romanian
-$boost=3,site=hotnews.ro
-$boost=3,site=g4media.ro
-/r/Romania/$boost=2
+$boost=8,site=hotnews.ro
+$boost=8,site=g4media.ro
+/r/Romania/$boost=7
 
 $discard,site=antidotul.ro
 $discard,site=digi24.ro

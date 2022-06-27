@@ -1,0 +1,11 @@
+! name: iOS REV ENG Goggles
+! description: Prioritizes some websites I find reliable for iOS REV ENG.
+! author: David Bors (borsdavid [at] proton [dot] me)
+! public: false
+! avatar: #0000ff
+
+$boost=9,site=h3adsh0tzz.com
+$boost=9,site=opensource.apple.com
+$boost=9,site=fossies.org
+$boost=9,site=theiphonewiki.com
+/h3adshotzz/$boost=9
